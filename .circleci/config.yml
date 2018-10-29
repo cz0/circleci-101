@@ -1,6 +1,6 @@
 version: 2.0
 jobs:
-  fun:
+  build:
     docker:
     - image: alpine:3.7
     steps:
